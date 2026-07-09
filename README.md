@@ -14,7 +14,7 @@
   ─────────────────────────────────────────────────────────────
 -->
 
-# Hi, I'm Andre 👋
+# Hi, I'm Andre
 
 **Software Engineer with focus on AI**
 <!-- e.g.  Backend Engineer · building reliable, well-tested systems -->
@@ -56,11 +56,3 @@ build, what you care about, and what you're good at. Skip the buzzwords.
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=white)](mailto:contact@arsoftware.tech)
 
 <br>
-
-<!-- ───────────────────────────────────────────────────────────
-     OPTIONAL: GitHub stats card. Delete this whole block if you
-     want the profile fully text-only. hide_border + transparent
-     theme keeps it subtle. Replace YOUR_USERNAME.
-     ─────────────────────────────────────────────────────────── -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=a-aigner&show_icons=true&hide_border=true&count_private=true&theme=transparent&hide=issues" alt="GitHub stats" height="150">
