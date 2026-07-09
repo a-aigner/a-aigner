@@ -14,9 +14,9 @@
   ─────────────────────────────────────────────────────────────
 -->
 
-# Hi, I'm YOUR_NAME 👋
+# Hi, I'm Andre 👋
 
-**YOUR_ROLE** &nbsp;·&nbsp; ONE_LINE_TAGLINE
+**Software Engineer with focus on AI**
 <!-- e.g.  Backend Engineer · building reliable, well-tested systems -->
 
 ---
@@ -26,10 +26,10 @@
 A short, honest paragraph — two or three lines is plenty. Say what you
 build, what you care about, and what you're good at. Skip the buzzwords.
 
-- 🔭&nbsp; Currently working on **PROJECT_OR_FOCUS**
-- 🌱&nbsp; Learning **SOMETHING_YOU_ARE_EXPLORING**
-- 💬&nbsp; Happy to talk about **TOPICS_YOU_ENJOY**
-- 📫&nbsp; Reach me at **YOUR_EMAIL**
+- 🔭&nbsp; Currently working on **note.md**
+- 🌱&nbsp; Learning **AI Engineering**
+- 💬&nbsp; Happy to talk about **LLMs and Startup Ideas**
+- 📫&nbsp; Reach me at **andreaigner@arsoftware.tech**
 
 <br>
 
