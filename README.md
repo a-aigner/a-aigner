@@ -23,8 +23,7 @@
 
 ### About
 
-A short, honest paragraph — two or three lines is plenty. Say what you
-build, what you care about, and what you're good at. Skip the buzzwords.
+Im a student who loves to play around with AI models and try to engineer some harness around it. Spending most of my time building my own version of Obsidian as a second brain but for academic work.
 
 - 🔭&nbsp; Currently working on **note.md**
 - 🌱&nbsp; Learning **AI Engineering**
